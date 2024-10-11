@@ -1,5 +1,4 @@
 ---
-hub_url: https://github.com/hubverse-org/example-complex-forecast-hub/
 rounds_idx: 0
 model_tasks_idx: 2
 reference_date_col_name: 'reference_date'
